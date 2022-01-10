@@ -1,7 +1,7 @@
 # Quantitative Analysis of Genomics Literature in Asia
 ## Description 
 The following are codes used for quantitative analysis of genomics literatures in East and Southeast Asia. 
-In this study we used topic modelling (Latent Ditichlet Allocation in Scikit-Learn packages) to identify topics in genomics research. Then, we perform spatial and temporal analysis to understand topics proportion and trend in the given countries (Japan, South Korea, Singapore, Thailand, Malaysia, Viet Nam, Indonesia, and Philippines)
+In this study we used topic modelling (Latent Ditichlet Allocation in Scikit-Learn packages) to identify topics in genomics research. Then, we performed spatial and temporal analysis to understand topics proportion and trend in the given countries (Japan, South Korea, Singapore, Thailand, Malaysia, Viet Nam, Indonesia, and Philippines)
 ## Link to publication 
 TBA
 ## Codes information
